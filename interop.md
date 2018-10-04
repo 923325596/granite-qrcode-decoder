@@ -1,5 +1,5 @@
 ---
-title: Nextgen GWT/JS Interop (Public)
+title: Copy of Nextgen GWT/JS Interop (Public)
 layout: post
 author: cromwellian
 permalink: /interop/
